@@ -1,2 +1,1 @@
-# BANK-MANAGEMENT-APPLICATION
-This the C++ based application on bank management application for easy entry of data and deletion of data with the transaction history.
+The Bank Management System is a console-based application developed using C++ to perform core banking operations such as account creation, deposit, withdrawal, balance inquiry, and account management. The project uses Object-Oriented Programming (OOP) concepts and file handling techniques to securely store customer records and maintain data permanently. It provides a menu-driven interface for easy user interaction and helps in understanding real-world banking operations, file management, and practical implementation of C++ programming concepts.
